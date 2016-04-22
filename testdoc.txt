@@ -10,4 +10,8 @@ I did it !!! huuuurah!
 after 1.0
 
 
+<<<<<<< HEAD
 I've added this line on master branch!
+=======
+I've added this line on dev branch!
+>>>>>>> dev
